@@ -1,5 +1,9 @@
 name: Reusable Action for PNPM and NX
 description: Restore/Create cache for PNPM and NX
+author: dipiash
+branding:
+  color: orange
+  icon: package
 runs:
   using: "composite"
   steps:
