@@ -7,6 +7,8 @@
 
 ## How to use
 
+Real example you can see [here](https://github.com/dipiash/nx-ts-vite-react-graphql-styled-monorepo-example).
+
 For example workflow action for PR checks.
 
 ```yaml
