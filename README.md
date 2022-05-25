@@ -37,7 +37,7 @@ jobs:
 
       - uses: pnpm/action-setup@v2.1.0
         with:
-          version: 6.30.1
+          version: 7.1.5
           run_install: true
 
   type-check:
